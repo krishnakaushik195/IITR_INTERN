@@ -1,7 +1,11 @@
 # Image Text Extraction and Keyword Highlighting Web App 🖼️🔍
 
 **Author**: Krishna Kaushik
+## Demo Video
 
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-brightgreen)](https://github.com/user-attachments/assets/5b22d10a-7b00-42a1-8112-4388af7e290e)
+
+Click the link above to watch a demo of the project, where you can see how the image upload, text extraction, and keyword highlighting works.
 ## Project Overview
 
 This project implements an OCR (Optical Character Recognition) solution to extract text from images and allows users to highlight specific keywords within the extracted text. The core functionalities are powered by Huggingface's Qwen2-VL-2B-Instruct model, a vision-language model capable of extracting text in various languages, including Hindi and English. The web interface is developed using **Gradio** to make the process interactive and user-friendly.
