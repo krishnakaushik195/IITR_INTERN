@@ -1,0 +1,5 @@
+git+https://github.com/huggingface/transformers
+gradio
+torch
+pillow
+accelerate>=0.26.0
